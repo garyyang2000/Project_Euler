@@ -1,0 +1,6 @@
+c:\users\gyang\documents\visual studio 2012\Projects\projectEuler_multiples of 3 and 5\projectEuler_multiples of 3 and 5\bin\Debug\projectEuler_multiples of 3 and 5.exe.config
+c:\users\gyang\documents\visual studio 2012\Projects\projectEuler_multiples of 3 and 5\projectEuler_multiples of 3 and 5\bin\Debug\projectEuler_multiples of 3 and 5.exe
+c:\users\gyang\documents\visual studio 2012\Projects\projectEuler_multiples of 3 and 5\projectEuler_multiples of 3 and 5\bin\Debug\projectEuler_multiples of 3 and 5.pdb
+c:\users\gyang\documents\visual studio 2012\Projects\projectEuler_multiples of 3 and 5\projectEuler_multiples of 3 and 5\obj\Debug\projectEuler_multiples of 3 and 5.csprojResolveAssemblyReference.cache
+c:\users\gyang\documents\visual studio 2012\Projects\projectEuler_multiples of 3 and 5\projectEuler_multiples of 3 and 5\obj\Debug\projectEuler_multiples of 3 and 5.exe
+c:\users\gyang\documents\visual studio 2012\Projects\projectEuler_multiples of 3 and 5\projectEuler_multiples of 3 and 5\obj\Debug\projectEuler_multiples of 3 and 5.pdb
