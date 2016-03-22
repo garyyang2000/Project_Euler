@@ -1,0 +1,6 @@
+c:\users\gyang\documents\visual studio 2012\Projects\Largest palindrome product\Largest palindrome product\bin\Debug\Largest palindrome product.exe.config
+c:\users\gyang\documents\visual studio 2012\Projects\Largest palindrome product\Largest palindrome product\bin\Debug\Largest palindrome product.exe
+c:\users\gyang\documents\visual studio 2012\Projects\Largest palindrome product\Largest palindrome product\bin\Debug\Largest palindrome product.pdb
+c:\users\gyang\documents\visual studio 2012\Projects\Largest palindrome product\Largest palindrome product\obj\Debug\Largest palindrome product.csprojResolveAssemblyReference.cache
+c:\users\gyang\documents\visual studio 2012\Projects\Largest palindrome product\Largest palindrome product\obj\Debug\Largest palindrome product.exe
+c:\users\gyang\documents\visual studio 2012\Projects\Largest palindrome product\Largest palindrome product\obj\Debug\Largest palindrome product.pdb
