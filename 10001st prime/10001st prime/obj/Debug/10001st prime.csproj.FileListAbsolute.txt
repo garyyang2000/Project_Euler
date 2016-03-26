@@ -1,0 +1,6 @@
+c:\users\gyang\documents\visual studio 2012\Projects\10001st prime\10001st prime\bin\Debug\10001st prime.exe.config
+c:\users\gyang\documents\visual studio 2012\Projects\10001st prime\10001st prime\bin\Debug\10001st prime.exe
+c:\users\gyang\documents\visual studio 2012\Projects\10001st prime\10001st prime\bin\Debug\10001st prime.pdb
+c:\users\gyang\documents\visual studio 2012\Projects\10001st prime\10001st prime\obj\Debug\10001st prime.csprojResolveAssemblyReference.cache
+c:\users\gyang\documents\visual studio 2012\Projects\10001st prime\10001st prime\obj\Debug\10001st prime.exe
+c:\users\gyang\documents\visual studio 2012\Projects\10001st prime\10001st prime\obj\Debug\10001st prime.pdb
