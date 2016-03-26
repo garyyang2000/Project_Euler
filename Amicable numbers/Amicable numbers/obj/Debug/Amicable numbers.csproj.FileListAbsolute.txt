@@ -1,0 +1,9 @@
+c:\users\gyang\documents\visual studio 2012\Projects\Amicable numbers\Amicable numbers\bin\Debug\Amicable numbers.exe.config
+c:\users\gyang\documents\visual studio 2012\Projects\Amicable numbers\Amicable numbers\bin\Debug\Amicable numbers.exe
+c:\users\gyang\documents\visual studio 2012\Projects\Amicable numbers\Amicable numbers\bin\Debug\Amicable numbers.pdb
+c:\users\gyang\documents\visual studio 2012\Projects\Amicable numbers\Amicable numbers\obj\Debug\Amicable numbers.csprojResolveAssemblyReference.cache
+c:\users\gyang\documents\visual studio 2012\Projects\Amicable numbers\Amicable numbers\obj\Debug\Amicable_numbers.Form1.resources
+c:\users\gyang\documents\visual studio 2012\Projects\Amicable numbers\Amicable numbers\obj\Debug\Amicable_numbers.Properties.Resources.resources
+c:\users\gyang\documents\visual studio 2012\Projects\Amicable numbers\Amicable numbers\obj\Debug\Amicable numbers.csproj.GenerateResource.Cache
+c:\users\gyang\documents\visual studio 2012\Projects\Amicable numbers\Amicable numbers\obj\Debug\Amicable numbers.exe
+c:\users\gyang\documents\visual studio 2012\Projects\Amicable numbers\Amicable numbers\obj\Debug\Amicable numbers.pdb
